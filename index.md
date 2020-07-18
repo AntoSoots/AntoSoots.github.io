@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-<a href="https://github.com/AntoSoots/myappsample/blob/master/index.html">Page2</a>
+<a href="/myappsample">Page2</a>
 
 You can use the [editor on GitHub](https://github.com/AntoSoots/AntoSoots.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
