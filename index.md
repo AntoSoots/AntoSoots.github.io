@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 <a href="/myappsample">Page2</a>
 <a href="/To-Do">Page3</a>
-<a href="/regamine">Page4</a>
+<a href="/regamine/resources/views/home.blade.php">Page4</a>
 
 You can use the [editor on GitHub](https://github.com/AntoSoots/AntoSoots.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
