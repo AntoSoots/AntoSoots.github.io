@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 [Sample](https://antosoots.github.io/myappsample/)
-
 [Ülesannete list](https://antosoots.github.io/To-Do/)
-
 [Laravel registreerimis vorm](https://laravelligaregamine.000webhostapp.com/)
 
 You can use the [editor on GitHub](https://github.com/AntoSoots/AntoSoots.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
