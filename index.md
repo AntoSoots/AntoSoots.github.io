@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
-<a href="/myappsample">Page2</a>
-<a href="/To-Dohttps://laravelligaregamine.000webhostapp.com/">Page3</a>
-<a href="https://laravelligaregamine.000webhostapp.com/">Page4</a>
+[Laravel registreerimis vorm](https://laravelligaregamine.000webhostapp.com/)<a href="/myappsample">Page2</a>
+[Ülesannete list, analoog kella ja ilmateatega](/To-Do)
 [Laravel registreerimis vorm](https://laravelligaregamine.000webhostapp.com/)
 
 You can use the [editor on GitHub](https://github.com/AntoSoots/AntoSoots.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
