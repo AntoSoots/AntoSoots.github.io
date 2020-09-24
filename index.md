@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 [Laravel registreerimis vorm](https://laravelligaregamine.000webhostapp.com/)<a href="/myappsample">Page2</a>
-[Ülesannete list, analoog kella ja ilmateatega](/To-Do)
+[Ülesannete list, analoog kella ja ilmateatega](https://antosoots.github.io/To-Do/)
 [Laravel registreerimis vorm](https://laravelligaregamine.000webhostapp.com/)
 
 You can use the [editor on GitHub](https://github.com/AntoSoots/AntoSoots.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
